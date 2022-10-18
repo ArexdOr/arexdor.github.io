@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T15:17:40.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.1.2" etag="pM-CL9bjHJTrM45m9vYw" type="github"><diagram id="yjhUgLc3guRxWzNIC-zP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T14:09:35.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="86lCILCyeE6ckDWTSPhs" version="20.4.1" type="github">
+  <diagram id="yjhUgLc3guRxWzNIC-zP" name="第 1 页">
+    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-1" target="OvMeGd2LpcwP4F0oD0at-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;A&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="29" y="345" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-2" target="OvMeGd2LpcwP4F0oD0at-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-2" value="通知单&lt;br&gt;账单" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-11" target="OvMeGd2LpcwP4F0oD0at-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-11" value="寄发、交付取票通知" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-13" target="OvMeGd2LpcwP4F0oD0at-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-13" value="取票通知" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="355" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-17" target="OvMeGd2LpcwP4F0oD0at-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-17" value="航班要求" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="575" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-20" target="OvMeGd2LpcwP4F0oD0at-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-20" value="寄发、交付取票通知" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-21" target="OvMeGd2LpcwP4F0oD0at-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-21" value="查看航班舱位" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-24" target="OvMeGd2LpcwP4F0oD0at-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-24" value="客机舱位表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-25" target="OvMeGd2LpcwP4F0oD0at-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-25" value="旅客信息" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="690" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-26" target="OvMeGd2LpcwP4F0oD0at-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-26" target="OvMeGd2LpcwP4F0oD0at-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-26" value="航空公司登记" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="827" y="580" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-31" target="OvMeGd2LpcwP4F0oD0at-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-31" target="OvMeGd2LpcwP4F0oD0at-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-31" value="旅客信息表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="850.5" y="460" width="106.5" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-33" target="OvMeGd2LpcwP4F0oD0at-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-33" value="旅客" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="13" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-37" target="OvMeGd2LpcwP4F0oD0at-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-37" value="旅客" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-39" target="OvMeGd2LpcwP4F0oD0at-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-39" value="取票通知" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="843.5" y="350" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-41" target="OvMeGd2LpcwP4F0oD0at-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-41" value="旅客交款取票" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="355" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-43" value="机票" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="350" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-46" target="OvMeGd2LpcwP4F0oD0at-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-46" target="OvMeGd2LpcwP4F0oD0at-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-46" value="安排航班" style="whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="580" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="OvMeGd2LpcwP4F0oD0at-48" target="OvMeGd2LpcwP4F0oD0at-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-48" value="客机舱位表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1184.5" y="460" width="106.5" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-54" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;A&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OvMeGd2LpcwP4F0oD0at-56" value="票务账单表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1043.25" y="690" width="106.5" height="83" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
